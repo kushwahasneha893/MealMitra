@@ -4,7 +4,7 @@ MealMitra is a full-stack food ordering and delivery platform that connects cust
 
 The platform allows users to browse meals, place orders, and manage food listings with secure authentication.
 
----
+--- 
 
 ## 🚀 Features
 
